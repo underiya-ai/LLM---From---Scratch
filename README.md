@@ -44,12 +44,12 @@ To deeply understand how LLMs work internally by implementing each component ste
 | Step | Status |
 |------|--------|
 | Data Processing | ✅ Completed |
-| Tokenization | ⏳ |
-| Embeddings | ⏳ |
-| Attention | ⏳ |
-| Transformer | ⏳ |
-| Training | ⏳ |
-| Inference | ⏳ |
+| Tokenization | ✅ Completed  |
+| Embeddings | ✅ Completed  |
+| Attention | ✅ Completed  |
+| Transformer | ✅ Completed  |
+| Training | ⏳Pending |
+| Inference | ⏳Pending |
 
 ---
 
