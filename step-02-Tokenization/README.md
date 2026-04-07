@@ -52,4 +52,21 @@ This is my first LLM project
 ### Decoded:
 this is my first llm project
 
-```python
+## 🚀 Tokenization using tiktoken
+
+Used OpenAI's tiktoken library for fast and efficient tokenization.
+
+### Features:
+- Subword tokenization
+- Optimized for LLMs
+- Same tokenizer used in GPT models
+
+---
+
+## 📊 Sample Output
+
+### Encoded Tokens:
+[15496, 11, 616, 3290, ...]
+
+### Decoded Text:
+hello this is my first llm project ...
