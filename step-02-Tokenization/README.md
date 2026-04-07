@@ -41,7 +41,7 @@ Example:
 
 ## Sample Code in tokenizer_scratch.py 
 
-## 📊 Sample Output (Scratch Tokenizer)
+## Sample Output (Scratch Tokenizer)
 
 ### Input:
 This is my first LLM project
@@ -52,7 +52,7 @@ This is my first LLM project
 ### Decoded:
 this is my first llm project
 
-## 🚀 Tokenization using tiktoken
+## Tokenization using tiktoken
 
 Used OpenAI's tiktoken library for fast and efficient tokenization.
 
@@ -63,7 +63,7 @@ Used OpenAI's tiktoken library for fast and efficient tokenization.
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ### Encoded Tokens:
 [15496, 11, 616, 3290, ...]
