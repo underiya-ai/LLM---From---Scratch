@@ -12,11 +12,8 @@ To deeply understand how LLMs work internally by implementing each component ste
 
 - Step 01: Data Processing
 - Step 02: Tokenization
-- Step 03: Embeddings
-- Step 04: Attention Mechanism
-- Step 05: Transformer Architecture
-- Step 06: Training
-- Step 07: Inference
+- Step 03: Embeddings/Transformer Architecture/Attention mechanism 
+- 
 
 ---
 
